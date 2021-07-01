@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Trời không xanh,
     Mây cũng không trắng
     Anh không say nắng,
-    Nhưng lại say em~
+    Nhưng lại say em~,
     btnIntro: 'ahihi ^^',
     title: 'Phải chăng định mệnh đã đưa anh tới bên em? 😙',
     desc: 'Em có say anh ngay từ lúc thấy nụ cười tỏa nắng của anh hong? ',
@@ -15,4 +15,5 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Tối nay chơi LOL với any nhé ^^.',
     btnAccept: 'Okiiiii lun <3',
+    messLink: 'https://www.facebook.com/duy.dangvuminh99/' 
 }
