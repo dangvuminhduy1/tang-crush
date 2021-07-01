@@ -1,9 +1,9 @@
 const CONFIG = {
     introTitle: 'Công chúa của anh à!',
-    introDesc: `Trời không xanh,
+    introDesc: `Trời không xanh
     Mây cũng không trắng
-    Anh không say nắng,
-    Nhưng lại say em~,
+    Anh không say nắng
+    Nhưng lại say em~`,
     btnIntro: 'ahihi ^^',
     title: 'Phải chăng định mệnh đã đưa anh tới bên em? 😙',
     desc: 'Em có say anh ngay từ lúc thấy nụ cười tỏa nắng của anh hong? ',
